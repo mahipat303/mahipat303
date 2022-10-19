@@ -41,7 +41,7 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahipat303&bg_color=403b3d&color=ffc87a&line=3e7955&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mahipat303&bg_color=403b3d&color=ffc87a&line=3e7955&point=fffafa&area=true&hide_border=true)](https://github.com/mahipat303)
 
 
 
