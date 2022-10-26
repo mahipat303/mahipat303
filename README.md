@@ -30,13 +30,9 @@
 
 <p align="center">
   <a href="https://github.com/mahipat303/subtle-swing-119"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=subtle-swing-119&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+    <a href="https://github.com/mahipat303/wired-interest-36"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=wired-interest-36&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
-
-
-<p align="center">
-  <a href="https://github.com/mahipat303/wired-interest-36"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=wired-interest-36&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
-</p>
 
 
 ## 🔥 Streak stats
