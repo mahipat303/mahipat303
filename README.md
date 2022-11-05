@@ -22,7 +22,7 @@ A java backend developer from India, who is very passionate about coding and lik
 <a href="https://twitter.com/@mahi_303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahi_303" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahipat parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahipat parmar" height="30" width="40" /></a>
 </p>
-<h3 align="center"><a href="https://mahipat303.github.io" target="_blank">--> portfolio <--</h3>
+<h3 align="center"><a href="https://mahipat303.github.io" target="_blank"/>--> portfolio <--</a></h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
