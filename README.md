@@ -49,6 +49,13 @@ A java backend developer from India, who is very passionate about coding and lik
 </p>
 
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=501&lines=--------%3E++youtube.com+clone++%3C---------" alt="Typing SVG" /></a></p>
+
+<p align="center">
+  <a href="https://github.com/mahipat303/youtube"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=youtube&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+</p>
+
 
 ## 🔥 Streak stats
 
