@@ -13,7 +13,7 @@
 
 <h4 align="center">
 
-A java backend developer from India, who is very passionate about coding and likes to spend hours on problems..........
+A java backend developer from India, who is very passionate about coding and likes to spend hours on problems...........
 </h4>
 <br/>
 
