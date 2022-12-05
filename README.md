@@ -36,7 +36,7 @@ A java backend developer from India, who is very passionate about coding and lik
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=501&lines=--------%3E++Zappos.com+clone++%3C---------" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <a href="https://github.com/mahipat303/subtle-swing-119"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=subtle-swing-119&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/mahipat303/zappos.com-clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=subtle-swing-119&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
 
@@ -45,7 +45,7 @@ A java backend developer from India, who is very passionate about coding and lik
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=501&lines=--------%3E++Smatbot.com+clone++%3C---------" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <a href="https://github.com/mahipat303/wired-interest-36"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=wired-interest-36&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/mahipat303/smatbot.com-clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=wired-interest-36&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
 
@@ -53,7 +53,7 @@ A java backend developer from India, who is very passionate about coding and lik
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=501&lines=--------%3E++course monitor+(backend)++%3C---------" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <a href="https://github.com/mahipat303/money-cellar-3895"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=money-cellar-3895&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/mahipat303/Course-monitor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=money-cellar-3895&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
 </p>
 
 
