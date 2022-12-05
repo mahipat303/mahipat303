@@ -65,6 +65,22 @@ A java backend developer from India, who is very passionate about coding and lik
   </a>
 </p>
 
+   <p align="center">
+          <a href="https://github.com/mahipat303">
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=mahipat303&theme=monokai&show_icons=true&hide_border=true&count_private=true"
+            />
+          </a>
+        </p>
+
+<p align="center">
+          <a href="https://github.com/mahipat303">
+            <img
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahipat303&theme=monokai&show_icons=true&hide_border=true&count_private=true"
+            />
+          </a>
+        </p>
+
 
 
 
