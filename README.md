@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=501&lines=--------%3E++Java+Backend+Devloper++%3C---------; .+A+good+programmer+with+great+habits+.;Make+it+work%2C+make+it+right%2C+make+it+fast." alt="Typing SVG" /></a></p>
+<a href="https://github.com/mahipat303"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=501&lines=--------%3E++Java+Backend+Devloper++%3C---------; .+A+good+programmer+with+great+habits+.;Make+it+work%2C+make+it+right%2C+make+it+fast." alt="Typing SVG" /></a></p>
 
 <!-- Social icons section -->
 
