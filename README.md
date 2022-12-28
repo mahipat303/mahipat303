@@ -54,7 +54,7 @@ A java backend developer from India, who is very passionate about coding and lik
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=501&lines=--------%3E++Smatbot.com+clone++%3C---------" alt="Typing SVG" /></a></p>
+<a href="https://github.com/mahipat303/smatbot.com-clone"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=501&lines=--------%3E++Smatbot.com+clone++%3C---------" alt="Typing SVG" /></a></p>
 
 <p align="center">
   <a href="https://github.com/mahipat303/smatbot.com-clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mahipat303&repo=smatbot.com-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-stats"></a>
