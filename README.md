@@ -64,9 +64,9 @@ A java backend developer from India, who is very passionate about coding and lik
 
 
 
-## 🔥 Streak stats
+## 🔥 Streak  stats
 
-<p align="center">
+<p  align = "center">
   <a href="https://github.com/mahipat303">
     <img src="https://streak-stats.demolab.com/?user=mahipat303&theme=monokai-metallian&hide_border=true"/>
   </a>
