@@ -76,20 +76,19 @@ A java backend developer from India, who is very passionate about coding and lik
 <p align="center">
           <a href="https://github.com/mahipat303">
             <img
-              src="https://github-readme-stats.vercel.app/api?username=mahipat303&theme=gruvbox&show_icons=true&hide_border=true&count_private=true"
-            />
+              src="https://github-readme-stats.vercel.app/api?username=mahipat303&theme=react&show_icons=true&hide_border=true&count_private=true"/>
           </a>
         </p>
 
 <p align="center">
           <a href="https://github.com/mahipat303">
             <img
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahipat303&theme=gruvbox&show_icons=true&hide_border=true&count_private=true"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahipat303&theme=react&show_icons=true&hide_border=true&count_private=true"
             />
           </a>
         </p>
 
-
+<!-- gruvbox -->
 
 <!-- https://github-readme-stats.vercel.app/api?username=mahipat303&theme=monokai&show_icons=true&hide_border=true&count_private=true -->
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=mahipat303&theme=monokai&show_icons=true&hide_border=true&count_private=true -->
